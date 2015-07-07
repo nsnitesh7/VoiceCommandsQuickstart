@@ -1,0 +1,1 @@
+C:\Users\nitesi\Documents\Visual Studio 2013\Projects\VoiceCommandsQuickstart\VoiceCommandsQuickstart.csproj;neutral
